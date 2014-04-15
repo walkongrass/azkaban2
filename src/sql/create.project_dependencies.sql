@@ -1,4 +1,4 @@
-CREATE  TABLE `azkaban25`.`project_dependencies` (
+CREATE  TABLE project_dependencies (
   `id` INT NOT NULL AUTO_INCREMENT ,
   `pro_id` INT NOT NULL ,
   `dep_pro_id` INT NOT NULL ,

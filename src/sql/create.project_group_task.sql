@@ -1,4 +1,4 @@
-CREATE  TABLE `azkaban25`.`project_group_task` (
+CREATE  TABLE project_group_task (
   `id` INT NOT NULL AUTO_INCREMENT ,
   `pro_dep_id` INT NOT NULL ,
   `exe_id` INT NULL ,
